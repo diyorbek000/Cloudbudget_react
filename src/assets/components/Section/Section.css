@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15+Charted&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Jost:ital,wght@0,100..900;1,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lugrasimo&family=Manrope:wght@200..800&family=Russo+One&display=swap');
+
+.card-border {
+    width: 100%;
+    height: 660px;
+    top: 1282px;
+}
+
+:root {
+    --body-font-family: "Lato", sans-serif;
+}
+
+.jpg-border {
+    display: flex;
+    height: 550px;
+    background: #f5eeee;
+}
+
+.card {
+    width: 400px;
+    height: 355px;
+    top: 1463px;
+    left: 165px;
+    border-radius: 8px;
+    margin: auto;
+}
+
+.jpg {
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.jpg-photo {
+    width: 350px;
+    height: 220px;
+    border-radius: 8px;
+    position: absolute;
+}
+
+.jpg-info {
+    width: 326px;
+    height: 198px;
+    top: 160px;
+    left: 36px;
+    border-radius: 8px;
+    position: relative;
+    font-family: var(--body-font-family);
+}
+
+.jpg-header {
+    width: 260px;
+    height: 150px;
+    top: 1620px;
+    left: 194px;
+    border-radius: 8px;
+    background: #FFFFFF;
+    font-size: 20px;
+    padding: 35px;
+    right: 50px;
+    text-align: center;
+}
+
+.jpg-paragraph {
+    position: relative;
+    bottom: 35px;
+    width: 85%;
+    height: 57px;
+    text-align: center;
+    left: 28px;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 0px 10px 0px 10px;
+    position: absolute;
+}
+
+.jpg-btn {
+    color: #ED4C5C;
+    font-weight: 600;
+    width: 253px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 50px;
+    left: 35px;
+}
+
+
+
+.technology {
+    width: 100%;
+    height: 540px;
+    position: absolute;
+}
+
+.technology-header {
+    width: 1200px;
+    height: 55px;
+    top: 2005px;
+    right: 30px;
+    font-family: var(--body-font-family);
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43px;
+    text-align: center;
+    margin: 60px 0px 0px 65px;
+}
+
+.technology-menu {
+    width: 1200px;
+    height: 270px;
+    margin-top: 50px;
+    position: relative;
+    top: 130px;
+    display: flex;
+    gap: 59px;
+}
+
+.technology-card {
+    width: 255px;
+    height: 100%;
+}
+
+.icons {
+    border: 1px solid none;
+    width: 150px;
+    height: 150px;
+    right: 20%;
+
+}
+
+.technology-icon {
+    width: 154px;
+    height: 154px;
+    margin: 0px 0px 0px 50px;
+}
+
+.technology-info {
+    font-family: var(--body-font-family);
+    width: 154px;
+    height: 30px;
+    font-size: 23px;
+    text-align: center;
+    margin: 0px 0px 0px 50px;
+    font-weight: 700;
+}
+
+.technology-paragraph {
+    font-family: var(--body-font-family);
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    margin: 15px 0px 0px 0px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.money {
+    position: relative;
+    background: #ED4C5C;
+    border: 2px solid #ED4C5C;
+    width: 100%;
+    height: 500px;
+    top: 200px;
+}
+
+.money-menu {
+    width: 445px;
+    height: 195px;
+    top: 2564px;
+    left: 165px;
+
+}
+
+.money-info-1 {
+    color: #ffffff;
+    font-family: var(--body-font-family);
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 445px;
+    height: 107px;
+    margin: 130px 00px 0px 150px;
+}
+
+.money-paragraph {
+    color: #FFFFFF;
+    width: 445px;
+    height: 64px;
+    margin: 30px 00px 0px 150px;
+    font-family: var(--body-font-family);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.app-icons {
+    width: 134px;
+    height: 32px;
+    display: flex;
+    margin: -50px 20px 20px 150px;
+
+}
+
+.money-icon {
+    color: #ffffff;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    font-size: 23px;
+}
+
+.money-photo {
+    margin: -280px 0px 0px 700px;
+}
+
+.money-wallpaper {
+    width: 445px;
+    height: 311px;
+    border-radius: 20px;
+    margin: 60px 0px 0px 0px;
+}

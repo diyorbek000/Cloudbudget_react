@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15+Charted&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Jost:ital,wght@0,100..900;1,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lugrasimo&family=Manrope:wght@200..800&family=Russo+One&display=swap');
+
+:root {
+    --body-font-family: "Lugrasimo", "cursive";
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 180px;
+    padding-top: 20px;
+}
+
+.nav_text {
+    font-family: var(--body-font-family);
+    color: white;
+}
+
+.list {
+    display: flex;
+    gap: 30px;
+}
+
+.btn {
+    font-family: var(--body-font-family);
+    background: transparent;
+    border-radius: 6px;
+    border: 1px solid white;
+    width: 100px;
+    height: 40px;
+    font-size: 14px;
+    color: white;
+}
+
+.list_item {
+    font-family: var(--body-font-family);
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    font-family: sans-serif;
+}
+
+.text_bottom {
+    text-align: center;
+}
+
+.text_info {
+    font-size: 72px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 700;
+    padding-bottom: 25px;
+}
+
+.text_paragraph {
+    font-family: var(--body-font-family);
+    font-weight: 600;
+    font-size: 22px;
+    color: white;
+    letter-spacing: 1px;
+    padding-bottom: 40px;
+}
+
+.btn_head {
+    color: #ED4C5C;
+    border: 1px solid white;
+    background: white;
+    width: 160px;
+    height: 50px;
+    border-radius: 6px;
+    font-size: 14px;
+    margin-bottom: 187px;
+}

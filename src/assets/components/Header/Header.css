@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15+Charted&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Jost:ital,wght@0,100..900;1,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lugrasimo&family=Manrope:wght@200..800&family=Russo+One&display=swap');
+
+:root {
+    --body-font-family: "Lato", sans-serif;
+}
+
+.text-1 {
+    color: #000;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 445px;
+    font-family: var(--body-font-family);
+    height: 107px;
+}
+
+.text-2 {
+    color: #000;
+    width: 445px;
+    height: 115px;
+    text-align: justify;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    font-family: var(--body-font-family);
+}
+
+.text-btn {
+    color: #a80a1a;
+    font-weight: 900;
+    margin-top: 15px;
+    font-family: var(--body-font-family);
+}
+
+.border {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.icon {
+    top: 40%;
+    bottom: -50%;
+    position: absolute;
+    left: -7%;
+}
+
+.photo {
+    position: relative;
+    width: 445px;
+    height: 311px;
+}
+
+.photo-info-1 {
+    width: 45%;
+    height: 311px;
+}
+
+.photo-info-2 {
+    margin-bottom: 25%;
+    width: 45%;
+    height: 311px;
+}
+
+.play_icon {
+    color: #FFF;
+}
+
+
+
+.text-info {
+    width: 100%;
+    height: 110px;
+    color: #000;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43px;
+    text-align: center;
+    background: #f5eeee;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
